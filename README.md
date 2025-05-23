@@ -35,7 +35,7 @@ This is a web-based pizza ordering application built with Laravel, featuring a u
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/Project-Web-Dev-main-ELECTIVE-.git
-   cd Project-Web-Dev-main-ELECTIVE-
+   cd Web-Development-Project
    ```
 
 2. **Install dependencies:**
